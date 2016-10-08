@@ -3,6 +3,8 @@ Simple Zodiak Android App, made from Ibacor API
 
 ![alt tag](https://github.com/zeattacker/ZodiakAndroidApp/blob/master/ss.png?raw=true)
 
+# Download
+You can try and download the app [Here](http://bit.ly/SimpleZodiacApp)
 
 # Disclaimer
 Just for blogging content, and educational purpose only ^^
