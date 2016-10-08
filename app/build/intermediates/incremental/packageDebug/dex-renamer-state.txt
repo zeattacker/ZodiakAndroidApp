@@ -1,0 +1,7 @@
+#Sun Oct 09 02:54:15 WIB 2016
+base.0=/Users/rama/Documents/AndroidProjects/Zodiak/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_40ca95b723d4f64099bc4b2d7948722feeabbe73
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/rama/Documents/AndroidProjects/Zodiak/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e94a267a555703de1b001238ae318fa561a2f18e/classes.dex
+base.1=/Users/rama/Documents/AndroidProjects/Zodiak/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e94a267a555703de1b001238ae318fa561a2f18e
+file.0=/Users/rama/Documents/AndroidProjects/Zodiak/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_40ca95b723d4f64099bc4b2d7948722feeabbe73/classes.dex
